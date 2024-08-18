@@ -1,0 +1,25 @@
+.countdown-container {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    height: 80vh;
+    margin: 0 auto;
+    background-color: black; 
+    border: 5px solid gold; 
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+.countdown-display {
+    text-align: center;
+    font-size: 6rem; 
+    letter-spacing: 5px;
+}
+
+
+
